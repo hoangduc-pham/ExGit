@@ -1,1 +1,2 @@
-Đây là tính năng featureA
+Đây là tính năng featureA lần 2
+
