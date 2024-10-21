@@ -1,1 +1,1 @@
-Đây là tính năng featureA
+Đây là tính năng trên FeatureB
